@@ -1,5 +1,5 @@
 # Pine64-CPP
-C++ library for Pine64. Based over work of Eric Ptak &lt;trouch@trouch.com>, Stefan Mavrodiev &lt;support@olimex.com>, Kamil Trzcinski &lt;ayufan@ayufan.eu>
+C++ library for Pine64. Based on the work of Eric Ptak &lt;trouch@trouch.com>, Stefan Mavrodiev &lt;support@olimex.com>, Kamil Trzcinski &lt;ayufan@ayufan.eu>
 
 Pine64-CPP is object oriented library for access to GPIO, I2C and SPI. Moreover all GPIO pin is mapped.
 
